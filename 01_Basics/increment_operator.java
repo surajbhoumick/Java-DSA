@@ -9,5 +9,11 @@ public class increment_operator {
         System.out.println("Post-increment: " + (a++)); // Output: 6 (then a becomes 7)
 
         System.out.println("After Post-increment: " + a); // Output: 7
+
+        //Another Example
+        int b = 5;
+        // Using += operator
+        b += 2;  
+        System.out.println("Using += : " + b); // Output: 7
     }
 }
