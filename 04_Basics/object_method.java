@@ -5,7 +5,7 @@ class Car {
 
     // Method
     void drive() {
-        System.out.println("The Car is driving: " + word);
+        System.out.println("The Car is : " + word);
     }
 }
 
